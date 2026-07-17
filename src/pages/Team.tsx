@@ -69,7 +69,7 @@ export default function Team() {
                       </div>
                     </div>
 
-                    <h3 className="mt-6 text-xl font-bold text-ops-black dark:text-white">Laurence Mureithi Magondu</h3>
+                    <h3 className="mt-6 text-xl font-bold text-ops-black dark:text-white">Laurence Magondu Mureithi</h3>
                     <p className="text-sm text-ops-blue font-semibold mt-1">Founder & Manufacturing Systems Consultant</p>
 
                     {/* Connect buttons */}
@@ -100,7 +100,7 @@ export default function Team() {
                           Opsloom was created after years of working inside manufacturing facilities and seeing the same patterns repeat: paper-based reporting, disconnected spreadsheets, reactive maintenance, and decisions made without data.
                         </p>
                         <p>
-                          Laurence Mureithi Magondu identified that the cost of these inefficiencies was enormous — unplanned downtime, missed preventive maintenance, inaccurate production data, and hours of wasted manual reporting. These were not technology problems. They were process problems that technology could solve.
+                          Laurence Magondu Mureithi identified that the cost of these inefficiencies was enormous — unplanned downtime, missed preventive maintenance, inaccurate production data, and hours of wasted manual reporting. These were not technology problems. They were process problems that technology could solve.
                         </p>
                         <p>
                           He founded Opsloom with a clear mission: to help manufacturers embrace practical digital transformation. Not theory. Not buzzwords. Real systems that solve real problems on the factory floor — from shop-floor reporting tools to executive KPI dashboards.
