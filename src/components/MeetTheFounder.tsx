@@ -74,11 +74,11 @@ export default function MeetTheFounder() {
                 <div className="absolute top-0 inset-x-0 h-1.5 bg-gradient-to-r from-ops-blue via-ops-blue-light to-ops-blue" />
                 <img
                   src={founderImg}
-                  alt="Laurence Mureithi Magondu"
+                  alt="Laurence Magondu Mureithi"
                   className="w-full h-auto object-cover"
                 />
                 <div className="absolute bottom-0 inset-x-0 p-5 bg-gradient-to-t from-black/70 via-black/30 to-transparent">
-                  <h3 className="text-xl font-bold text-white">Laurence Mureithi Magondu</h3>
+                  <h3 className="text-xl font-bold text-white">Laurence Magondu Mureithi</h3>
                   <p className="text-sm text-ops-blue-light font-semibold mt-0.5">Founder & Manufacturing Systems Consultant</p>
                 </div>
               </div>
@@ -216,7 +216,7 @@ export default function MeetTheFounder() {
                   LM
                 </div>
                 <div>
-                  <p className="text-sm font-semibold text-ops-black dark:text-white">Laurence Mureithi Magondu</p>
+                  <p className="text-sm font-semibold text-ops-black dark:text-white">Laurence Magondu Mureithi</p>
                   <p className="text-xs text-ops-gray-400">Founder & Manufacturing Systems Consultant, Opsloom</p>
                 </div>
               </div>
