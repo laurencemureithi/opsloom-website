@@ -59,7 +59,7 @@ export default function Team() {
                       <div className="relative w-48 h-48 lg:w-56 lg:h-56 rounded-full overflow-hidden border-4 border-white dark:border-ops-gray-800 shadow-xl">
                         <img
                           src={founderImg}
-                          alt="Laurence Mureithi Magondu"
+                          alt="Laurence Magondu Mureithi"
                           className="w-full h-full object-cover"
                         />
                       </div>
