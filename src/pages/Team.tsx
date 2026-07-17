@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { ArrowRight, Linkedin, Mail, Factory, Zap, Brain, BarChart3, Database, Cpu, LineChart, ClipboardCheck } from 'lucide-react';
 import PageHero from '../components/PageHero';
 import Reveal from '../components/Reveal';
-import founderImg from '../assets/founder.jpg';
+import founderImg from '../assets/founder1.jpg';
 
 const expertise = [
   { icon: Factory, label: 'Manufacturing Systems' },
